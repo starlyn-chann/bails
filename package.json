@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "bails",
   "type": "module",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
@@ -7,9 +7,9 @@
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/starlyn-chann/baileys/",
+  "homepage": "https://github.com/starlyn-chann/bails/",
   "repository": {
-    "url": "git@github.com:starlyn-chann/baileys.git"
+    "url": "git@github.com:starlyn-chann/bails.git"
   },
   "license": "MIT",
   "author": "Starlyn",
