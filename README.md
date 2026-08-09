@@ -1,4 +1,4 @@
-<h1 align="center">🐋 Starlyn/Baileys</h1>
+<h1 align="center">🐋 Starlyn/Bails</h1>
 
 <div align="center">
 
